@@ -8,3 +8,7 @@ try {
 } catch (error) {
     alert(error)
 } */
+
+//hata tipi
+/* let num = 21;
+console.log(num.toUpperCase()); */
